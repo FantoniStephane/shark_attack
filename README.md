@@ -75,7 +75,7 @@ contre seulement 5% pour la régression logistique.
 
 ```bash
 # Cloner le repo
-git clone https://github.com/FantoniStephane/shark-attack.git
+git clone https://github.com/FantoniStephane/shark_attack.git
 cd shark-attack
 
 # Installer les dépendances
